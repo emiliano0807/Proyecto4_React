@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './Memorama.css'; // Asegúrate de tener un archivo CSS con estilos y animaciones
+import './Memorama.css'; // CSS con estilos y animaciones
 
 const generateCards = () => {
   const totalCards = 25;
